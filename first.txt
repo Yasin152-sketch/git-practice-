@@ -7,4 +7,6 @@ this is feature branch bug
 
 this is second bug in fetaure branch
 
+<<<<<<< HEAD
 I option is computer science !
+
