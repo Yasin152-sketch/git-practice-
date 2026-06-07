@@ -4,3 +4,5 @@ My mother name is nasrin shaikh
 My brother name is farhan shaikh
 
 this is feature branch bug
+
+this is second bug in fetaure branch
