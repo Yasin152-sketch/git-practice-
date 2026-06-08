@@ -4,3 +4,6 @@ this is second tag in git
 This is git diffrenece file created on here!`
 
 thisi is another file 
+
+THIS IS SHOW YOUR HEAD IN GIT
+
